@@ -1,0 +1,5 @@
+The data in this notebook comes from unpublished data produced by Dr. Shelby rader at Indiana University Bloomington. Chemistry lab analysis was done in Indiana University geochemistry labs, and plants were grown in the Indiana University Biology Department greenhouse.
+
+I am doing a linear regression on ε205Tl values (an isotope fractionation value) from stems to seed pods of brown mustard of amazonite substrate derived ε205Tl values vs hendricksite substrate derived ε205Tl.
+
+For a little bit of background, ε205Tl are representative of the ratio of 205Tl to 203T. Higher levels of ε205Tl are belived to be associated with the much more toxic protonated variant of thallium, so Shelby's lab is working to understand the ε205Tl values as plants uptake the metal from various substrates. Do substrates with different thallium sources result in different ε205Tl values throughout plants? This linear regression aims to provide insight into the correlation of amazonite and hendricksite substrate to ε205Tl values throughout brown mustard plants.  

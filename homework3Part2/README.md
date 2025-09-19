@@ -1,0 +1,1 @@
+Downloaded /Users/barrettgibbs/Desktop/easg_Data_Analysis/lesson03/climdiv-norm-tmindv-v1.0.0-20250905 from https://www.ncei.noaa.gov/pub/data/cirs/climdiv/on 9/18/2025 at 7:17 pm Eastern; also downloaded the relevant readme `divisional-readme.txt`. 
