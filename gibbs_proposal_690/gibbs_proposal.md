@@ -28,11 +28,11 @@ For the advanced topic that I will use, I plan on constructing an animation util
 
 Timeline: 
 
--[x] (Nov 12) Presenting this idea at the geochemistry group meeting to get feedback.
--[x] (Nov 14) No major additions, as my focus will be on my final touches to the GRFP.
--[] (Nov 21) Files can be read in and sorted as the arrays described in “project goals”.
--[] (Nov 28) Individual graphs can be produced. This will be an easy step to get to from the data being read-in and stored, so it seems like a good light task for Thanksgiving break. 
-December 5th: Animations can be produced.
+- [x] (Nov 12) Presenting this idea at the geochemistry group meeting to get feedback.
+- [x] (Nov 14) No major additions, as my focus will be on my final touches to the GRFP.
+- [] (Nov 21) Files can be read in and sorted as the arrays described in “project goals”.
+- [] (Nov 28) Individual graphs can be produced. This will be an easy step to get to from the data being read-in and stored, so it seems like a good light task for Thanksgiving break. 
+- [] (Dec 5) Animations can be produced.
 
 References/Sources: 
 (1) Rader, Shelby T., Raina M. Maier, Mark D. Barton, and Frank K. Mazdab. “Uptake and Fractionation of Thallium by Brassica Juncea in a Geogenic Thallium-Amended Substrate.” Environmental Science & Technology 53, no. 5 (2019): 2441–49. https://doi.org/10.1021/acs.est.8b06222.
