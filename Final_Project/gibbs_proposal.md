@@ -14,7 +14,7 @@ As we acquire these data, we are particularly concerned with understanding ε205
 
 Thus far, Figure 1 and statistical tests have been produced from minimally processed data that are to be used in an upcoming paper by Dr. Shelby Rader. Statistical tests consist of the ANOVA test, pairwise t-test, inter-quartile range test (IQR), and Grubbs test. By using the ANOVA test and pairwise t-test, we are aiming to compare the variability between ε205Tl patterns throughout the plants. The IQR and Grubb’s tests are to test for outliers. Data is currently not structured in a tabular fashion. A figure has also been produced of all, unaveraged ε205Tl data.
 
-![This is what my publication quality figure(s) will look like](Final_Project/image.png "Figure 1")
+![This is what my publication quality figure(s) will look like](/Users/barrettgibbs/Desktop/easg_Data_Analysis/Final_Project/image.png "Figure 1")
  
 Project Goals:
     
